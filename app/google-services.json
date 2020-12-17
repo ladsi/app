@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517379213029",
+    "project_id": "ladsi-8de80",
+    "storage_bucket": "ladsi-8de80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517379213029:android:f2acbeb1f8f74a55b2360c",
+        "android_client_info": {
+          "package_name": "com.example.loginpassword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517379213029-b459ro887rn8pmkqphqjeraiubu1n449.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0Xhr-XlJulH2FZvE6iolVqR0bMlhdjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517379213029-b459ro887rn8pmkqphqjeraiubu1n449.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
